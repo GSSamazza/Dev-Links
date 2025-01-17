@@ -82,14 +82,14 @@ body * {
   border-radius: 50%;
 
   position: absolute;
-  animation: slide-out 0.8s forwards;
+  animation: slide-out 0.5s forwards;
   z-index: 1;
   transform: translateY(-50%);
   top: 50%;
 }
 
 .light #switch button {
-  animation: slide-in 0.8s forwards;
+  animation: slide-in 0.5s forwards;
 }
 
 #switch button:hover {
